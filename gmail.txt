@@ -1,4 +1,4 @@
-testtest.123@gmail.com:12345678
+Stelka.kovach@gmail.com:12345678
 emailyou@gmail.com:password
 emailyou@gmail.com:password
 emailyou@gmail.com:password
